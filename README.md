@@ -14,7 +14,7 @@ Zipkin is an open source distributed tracing system that allows you to trace req
 
 This project shows how to configure a Spring Boot application to use Micrometer and Zipkin for tracing and metrics.
 
-##Running Zipkin
+## Running Zipkin
 In order to make tracing work, you need to run your own copy of Zipkin. You can do this easily with Docker by executing the following command:
 
 ```
