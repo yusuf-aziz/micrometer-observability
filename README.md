@@ -79,6 +79,6 @@ http://localhost:8090/order?orderItem=pizza&amount=2.4&customerId=test
 7. Navigate to **http://localhost:9411/zipkin/** to open the Zipkin dashboard. You should see a new trace for the request you just made.
 
 
-![alt text](https://github.com/yusuf-aziz/observability-with-micrometer-and-zipkin/zipkin_trace.jpg?raw=true)
+![alt text](https://github.com/yusuf-aziz/observability-with-micrometer-and-zipkin/blob/main/zipkin_trace.jpg?raw=true)
 
 
